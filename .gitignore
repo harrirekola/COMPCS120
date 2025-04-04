@@ -62,8 +62,9 @@ install-sh
 ltmain.sh
 missing
 
+# OS generated
+.DS_Store
+
 # Others
 tags
 TAGS
-
-.DS_Store
